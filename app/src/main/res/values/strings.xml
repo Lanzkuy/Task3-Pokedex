@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="berries">Berries</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="todo">todo</string>
+    <string name="number">#001</string>
+    <string name="item">Item</string>
+    <string name="logout">Logout</string>
+</resources>

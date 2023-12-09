@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pokemonFragment"
+        android:title="@string/pokemon" />
+    <item
+        android:id="@+id/itemFragment"
+        android:title="@string/item" />
+    <item
+        android:id="@+id/actionLogout"
+        android:title="@string/logout" />
+</menu>

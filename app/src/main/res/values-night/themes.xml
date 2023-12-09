@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Task3Pokedex" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="Theme.Task3Pokedex" parent="Base.Theme.Task3Pokedex" />
+</resources>
